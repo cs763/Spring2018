@@ -41,8 +41,7 @@ TBD
 Lecture Schedule: 
 -----------------
 <table>
-  <tbody>
-  
+  <tbody>  
     <tr>
       <th>Date</th>
       <th>Topics</th>
@@ -64,8 +63,7 @@ Lecture Schedule:
 	      <li><a href="">TBD</a></li>
 	      </ul>
 	    </td>
-    </tr>    
-    
+    </tr>        
   </tbody>
 </table>
 
