@@ -40,6 +40,7 @@ TBD
 
 Lecture Schedule: 
 -----------------
+
 <table>
   <tbody>  
     <tr>
@@ -47,8 +48,7 @@ Lecture Schedule:
       <th>Topics</th>
       <th>Slides</th>
       <th>iTorch Notebooks</th>    
-    </tr>
-  
+    </tr>  
     <tr>
       <td>TBD</td>
       <td>
