@@ -22,6 +22,7 @@ Topics to be covered (tentative)
 <li> Camera Relative Orientation, Fundamental Matrix
 <li> The Data-Driven Paradigm, Feed Forwards Networks, Back-propagation and Chain Rule
 <li> CNNs and their Building Blocks - ReLU, MaxPool, Convolution, CrossEntropy, etc.
+<li> Optimization, LSTMs
 <li> Vanishing Gradients, Residual Blocks, Visualizing and Understanding CNNs
 <li> Generative Adverserial Networks (GANs)
 <li> CNN applications, CNN compression, Siamese and Triplet networks
