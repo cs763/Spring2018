@@ -28,7 +28,7 @@ matrix, the correspondence problem and shape from stereo; structure
 from motion
 <li> Deep Learning in computer vision: the data-driven paradigm, feed
 forwards networks, back-propagation and chain rule; CNNs and their
-building blocks. generative adverserial networks (GANs)
+building blocks, generative adverserial networks (GANs)
 <li> Deep Learning applications including face detection, CNN
 compression, siamese and triplet networks and applications to face
 recognition
