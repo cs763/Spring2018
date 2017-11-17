@@ -14,18 +14,24 @@ Course Information
 Topics to be covered (tentative)
 --------------------------------
 <ul>
-<li> Images, Noise, Image Derivative, Convolution, Filtering
-<li> Edge Detection, Interest Point Detection
-<li> SIFT, HOG, Optical Flow, KLT Tracking
-<li> Homogeneous coordinates, Camera Intrinsics and Extrintics
-<li> Camera Callibration, DLT and Zhang's Methods
-<li> Camera Relative Orientation, Fundamental Matrix
-<li> The Data-Driven Paradigm, Feed Forwards Networks, Back-propagation and Chain Rule
-<li> CNNs and their Building Blocks - ReLU, MaxPool, Convolution, CrossEntropy, etc.
-<li> Optimization, LSTMs
-<li> Vanishing Gradients, Residual Blocks, Visualizing and Understanding CNNs
-<li> Generative Adverserial Networks (GANs)
-<li> CNN applications, CNN compression, Siamese and Triplet networks
+
+<li> Camera geometry, camera calibration, vanishing points, important
+transformations, homographies
+<li> Image registration: RANSAC for point-matching, SIFT overview
+<li> Algorithms for - shape from shading, optical flow,
+Kanade-Lucas-Tomasi algorithm, applications of optical flow;
+<li> Photometric stereo - deriving shape from multiple images of an
+object taken under different lighting conditions; applications to
+illumination invariant face recognition, face relighting
+<li> Stereo (geometric binocular): epipolar geometry and fundamental
+matrix, the correspondence problem and shape from stereo; structure
+from motion
+<li> Deep Learning in computer vision: the data-driven paradigm, feed
+forwards networks, back-propagation and chain rule; CNNs and their
+building blocks. generative adverserial networks (GANs)
+<li> Deep Learning applications including face detection, CNN
+compression, siamese and triplet networks and applications to face
+recognition
 </ul>
 
 Learning materials and textbooks
