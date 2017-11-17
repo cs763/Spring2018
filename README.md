@@ -18,7 +18,7 @@ Topics to be covered (tentative)
 <li> Camera geometry, camera calibration, vanishing points, important
 transformations, homographies
 <li> Image registration: RANSAC for point-matching, SIFT overview
-<li> Algorithms for - shape from shading, optical flow,
+<li> Algorithms for: shape from shading, optical flow,
 Kanade-Lucas-Tomasi algorithm, applications of optical flow;
 <li> Photometric stereo - deriving shape from multiple images of an
 object taken under different lighting conditions; applications to
