@@ -83,7 +83,7 @@ Lecture Schedule:
 	      <li><a href="">TBD</a></li>
 	      </ul>
       </td>
-      <td><a href="http://www.cs.bath.ac.uk/~pjw/NOTES/75-ACG/ch6-projective.pdf">Projective Geometry Notes</a></td>
+      <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
     </tr>        
   </tbody>
 </table>
