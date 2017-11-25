@@ -66,7 +66,8 @@ Lecture Schedule:
       <th>Date</th>
       <th>Topics</th>
       <th>Slides</th>
-      <th>iTorch Notebooks</th>    
+      <th>iTorch Notebooks</th>
+      <th>Extra Reading</th>
     </tr>  
     <tr>
       <td>TBD</td>
@@ -81,7 +82,8 @@ Lecture Schedule:
 	      <li><a href="">TBD</a></li>
 	      <li><a href="">TBD</a></li>
 	      </ul>
-	    </td>
+      </td>
+      <td><a href="http://www.cs.bath.ac.uk/~pjw/NOTES/75-ACG/ch6-projective.pdf">Projective Geometry Notes</a></td>
     </tr>        
   </tbody>
 </table>
