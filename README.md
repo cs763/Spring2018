@@ -1,9 +1,7 @@
 
-Computer Vision (CS 763) - Spring 2018
-===================
+<h1>Computer Vision (CS 763) - Spring 2018 </h1>
 
-Course Information
-------------------
+<h2>Course Information</h2>
 <ul>
 <li><b>Instructor:</b> <a href="http://www.cse.iitb.ac.in/~ajain/">Arjun Jain</a>
 <li><b>Office:</b> 216, CSE New Building
@@ -11,8 +9,7 @@ Course Information
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Arjun is on campus only on Thursdays and Fridays. Meet him after class or fix an appointment over email.
 </ul>
 
-Topics to be covered (tentative)
---------------------------------
+<h2>Topics to be covered (tentative)</h2>
 <ul>
 
 <li> Camera geometry, camera calibration, vanishing points, important
@@ -34,12 +31,7 @@ compression, siamese and triplet networks and applications to face
 recognition
 </ul>
 
-
-CS763 is a hard prerequisite for this course.
---------------------------------
-
-Learning materials and textbooks
---------------------------------
+<h2>Learning materials and textbooks</h2>
 <ul>
 <li> Lecture slides that will be regularly posted
 <li><a href="http://szeliski.org/Book/">Computer Vision: Algorithms and Applications</a>, by Richard Szeliski</li>
@@ -48,8 +40,7 @@ Learning materials and textbooks
 <li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="https://github.com/cs763-dl/2017Spring/tree/master/Notebooks">here</a>
 </ul>
 
-Tutorials and other useful resources
-------------------------------------
+<h2>Tutorials and other useful resources</h2>
 <ul>
 	<li> <a href="http://tylerneylon.com/a/learn-lua/">Learn Lua in 15 minutes</a>
 	<li> <a href="https://github.com/torch/torch7/blob/master/doc/tensor.md">Torch's Tensor class</a>
@@ -57,12 +48,10 @@ Tutorials and other useful resources
 	<li> <a href="https://github.com/terryum/awesome-deep-learning-papers">Awesome deep learning papers</a>
 </ul>
 	
-Assignment
-----------
+<h2>Assignment</h2>
 TBD
 
-Lecture Schedule: 
------------------
+</h2>Lecture Schedule: </h2>
 
 <table>
   <tbody>  
