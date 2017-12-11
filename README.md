@@ -34,6 +34,8 @@ compression, siamese and triplet networks and applications to face
 recognition
 </ul>
 
+Note: CS763 is a hard prerequisite.
+
 Learning materials and textbooks
 --------------------------------
 <ul>
