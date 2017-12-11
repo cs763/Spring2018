@@ -9,13 +9,19 @@
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Arjun is on campus only on Thursdays and Fridays. Meet him after class or fix an appointment over email.
 </ul>
 
-<h3> CS763 is a hard prerequisite for this course.</h3> 
+<h3> Please note that CS763 is a hard prerequisite for this course.</h3> 
 
 <h2>Topics to be covered (tentative)</h2>
 <ul>
 
 <li> Camera geometry, camera calibration, vanishing points, important
 transformations, homographies
+<li> Deep Learning in computer vision: the data-driven paradigm, feed
+forwards networks, back-propagation and chain rule; CNNs and their
+building blocks, generative adverserial networks (GANs)
+<li> Deep Learning applications including face detection, CNN
+compression, siamese and triplet networks and applications to face
+recognition
 <li> Image registration: RANSAC for point-matching, SIFT overview
 <li> Algorithms for: shape from shading, optical flow,
 Kanade-Lucas-Tomasi algorithm, applications of optical flow
@@ -25,12 +31,6 @@ illumination invariant face recognition, face relighting
 <li> Stereo (geometric binocular): epipolar geometry and fundamental
 matrix, the correspondence problem and shape from stereo; structure
 from motion
-<li> Deep Learning in computer vision: the data-driven paradigm, feed
-forwards networks, back-propagation and chain rule; CNNs and their
-building blocks, generative adverserial networks (GANs)
-<li> Deep Learning applications including face detection, CNN
-compression, siamese and triplet networks and applications to face
-recognition
 </ul>
 
 <h2>Learning materials and textbooks</h2>
