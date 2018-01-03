@@ -6,10 +6,11 @@
 <li><b>Instructor:</b> <a href="http://www.cse.iitb.ac.in/~ajain/">Arjun Jain</a>
 <li><b>Office:</b> 216, CSE New Building
 <li><b>Email:</b> <i>ajain@cse DOT iitb DOT ac DOT in</i>
+<li><b>Teaching Assistants:</b> TBD
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Arjun is on campus only on Thursdays and Fridays. Meet him after class or fix an appointment over email.
 </ul>
 
-<h3> Please note that CS763 is a hard prerequisite for this course.</h3> 
+<h3> Please note that CS663 is a hard prerequisite for this course.</h3> 
 
 <h2>Topics to be covered (tentative)</h2>
 <ul>
@@ -42,13 +43,27 @@ from motion
 <li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="https://github.com/cs763-dl/2017Spring/tree/master/Notebooks">here</a>
 </ul>
 
-<h2>Tutorials and other useful resources</h2>
+<h2>Grading Policy</h2>
 <ul>
-	<li> <a href="http://tylerneylon.com/a/learn-lua/">Learn Lua in 15 minutes</a>
-	<li> <a href="https://github.com/torch/torch7/blob/master/doc/tensor.md">Torch's Tensor class</a>
-	<li> <a href="https://github.com/torch/torch7/blob/master/doc/maths.md">Torch's math library</a>
-	<li> <a href="https://github.com/terryum/awesome-deep-learning-papers">Awesome deep learning papers</a>
+	<li> Mid-sem exam: 20%
+	<li>Final exam (cumulative): 20%
+	<li>Assignments (five or six): 35% (all to be done in groups of 2-3 students)
+	<li>Course project: 20% (to be done in the same group of 2-3 students)
+	<li>Class participation: 5%
+	<li>Course project work will be presented by the student group during a viva at the end of the course. During this viva, each student in the group will be separately questioned, not only on the project work, but also the assignments. Each student is expected to contribute to each and every assignment and the course project. 
+	<li>Audit requirements: You must write both exams, submit all assignments and the project, and score at least 40% to get an AU.
 </ul>
+
+<h2>Other Policies</h2>
+<ul>
+	<li> Assignments will be given out (typically) once every two or three weeks. They must be submitted on or before the deadline. No late assignments will be accepted. The programming components of the assignments will typically involve MATLAB and lua, so you must be willing to learn it quickly.
+	<li>We will adopt a zero-tolerance policy against any forms of plagiarism or any other form of cheating. Just don't do it! In cases of plagiarism, givers and takers will both be considered equally responsible.
+	<li>This course is (inherently) cumulative. The syllabus for the final exam will include everything taught during the semester.
+</ul>
+
+<h2>Course Projects</h2>
+
+Read this <a href="tbd">link</a> for a list of project topics, and various instructions regarding course project submissions and expectations. You can also refer to "extra interesting readings" in the lecture schedule or Stanford <a href="http://cs231n.stanford.edu/reports.html">CS231n</a> projects.for ideas.
 	
 <h2>Assignment</h2>
 TBD
