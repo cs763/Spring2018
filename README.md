@@ -80,18 +80,27 @@ TBD
       <th>Extra Reading</th>
     </tr>  
     <tr>
-      <td>4th January 2018</td>
-      <td>
-	      <ul>
-	      <li> Introdunction </li>
-	      </ul>
-      </td>
+      <td>4th Jan. 2018</td>
+      <td>Introduction</td>
       <td><a href="https://github.com/cs763/Spring2018/blob/master/Lectures/1.%20Introduction/L1.pdf">Slides</a></td>
-      <td> -
+      <td align="center"> --
       </td>
-      <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
+      <td align="center">--</td>
     </tr>  
   
+   <tr>
+      <td>5th Jan. 2018</td>
+      <td><ul>
+	<li>Homogeneous coordinates and projective geometry
+        <li>Vanishing points, ideal line, point line duality in P2
+        <li>Important 2D and 3D transformations using homogeneous coordinates
+        <li>Introduction to the pin-hole camera model
+      </ul></td>
+      <td><a href="https://github.com/cs763/Spring2018/blob/master/Lectures/2.%20Camera%20Geometry/L1.pdf">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td align="center">--</td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
+  </tr>
   </tbody>
 </table>
 
