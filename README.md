@@ -6,11 +6,11 @@
 <li><b>Instructor:</b> <a href="http://www.cse.iitb.ac.in/~ajain/">Arjun Jain</a>
 <li><b>Office:</b> 216, CSE New Building
 <li><b>Email:</b> <i>ajain@cse DOT iitb DOT ac DOT in</i>
-<li><b>Teaching Assistants:</b> TBD
+<li><b>Teaching Assistants:</b> Rishabh Dabral, Safeer Afaque
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Arjun is on campus only on Thursdays and Fridays. Meet him after class or fix an appointment over email.
 </ul>
 
-<h3> Please note that CS663 is a hard prerequisite for this course.</h3> 
+<--h3> Please note that CS663 is a hard prerequisite for this course.</h3--> 
 
 <h2>Topics to be covered (tentative)</h2>
 <ul>
