@@ -57,7 +57,7 @@ from motion
 <h2>Other Policies</h2>
 <ul>
 	<li> Assignments will be given out (typically) once every two or three weeks. They must be submitted on or before the deadline. No late assignments will be accepted. The programming components of the assignments will typically involve MATLAB and lua, so you must be willing to learn it quickly.
-	<li>We will adopt a zero-tolerance policy against any forms of plagiarism or any other form of cheating. Just don't do it! In cases of plagiarism, givers and takers will both be considered equally responsible.
+	<li><b>We will adopt a zero-tolerance policy against any forms of plagiarism or any other form of cheating. Just don't do it! In cases of plagiarism, givers and takers will both be considered equally responsible.</b>
 	<li>This course is (inherently) cumulative. The syllabus for the final exam will include everything taught during the semester.
 </ul>
 
