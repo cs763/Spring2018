@@ -65,9 +65,9 @@ from motion
 
 Read this <a href="tbd">link</a> for a list of project topics, and various instructions regarding course project submissions and expectations. You can also refer to "extra interesting readings" in the lecture schedule or Stanford <a href="http://cs231n.stanford.edu/reports.html">course CS231n</a> projects for ideas.
 	
-<h2>Assignment</h2>
+<h2>Assignments</h2>
 TBD
-
+<p></p>
 </h2>Lecture Schedule: </h2>
 
 <table>
@@ -80,10 +80,23 @@ TBD
       <th>Extra Reading</th>
     </tr>  
     <tr>
-      <td>TBD</td>
+      <td>4th January 2018</td>
       <td>
 	      <ul>
-	      <li> TBD</li>
+	      <li> Introdunction </li>
+	      </ul>
+      </td>
+      <td><a href="https://github.com/cs763/Spring2018/blob/master/Lectures/1.%20Introduction/L1.pdf">Slides</a></td>
+      <td> -
+      </td>
+      <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
+    </tr>  
+	  
+    <tr>
+      <td>4th January 2018</td>
+      <td>
+	      <ul>
+	      <li> Introdunction </li>
 	      </ul>
       </td>
       <td><a href="">TBD</a></td>
@@ -94,7 +107,7 @@ TBD
 	      </ul>
       </td>
       <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
-    </tr>        
+    </tr>  
   </tbody>
 </table>
 
