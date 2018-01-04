@@ -67,8 +67,8 @@ Read this <a href="tbd">link</a> for a list of project topics, and various instr
 	
 <h2>Assignments</h2>
 TBD
-<p></p>
-</h2>Lecture Schedule: </h2>
+
+<h2>Lecture Schedule: </h2>
 
 <table>
   <tbody>  
