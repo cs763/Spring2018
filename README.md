@@ -91,23 +91,7 @@ TBD
       </td>
       <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
     </tr>  
-	  
-    <tr>
-      <td>4th January 2018</td>
-      <td>
-	      <ul>
-	      <li> Introdunction </li>
-	      </ul>
-      </td>
-      <td><a href="">TBD</a></td>
-      <td>
-	      <ul>
-	      <li><a href="">TBD</a></li>
-	      <li><a href="">TBD</a></li>
-	      </ul>
-      </td>
-      <td><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
-    </tr>  
+  
   </tbody>
 </table>
 
