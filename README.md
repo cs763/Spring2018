@@ -82,7 +82,7 @@ TBD
     <tr>
       <td>4th Jan. 2018</td>
       <td><ul><li>Introduction to computer vision, applications and course overview <ul></td>
-      <td><a href="https://www.dropbox.com/s/6ougafa7f2o2im0/L1.pdf">Slides</a></td>
+      <td><a href="https://www.dropbox.com/s/6w02e2w4w75xckm/L1.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
       <td align="center">--</td>
@@ -96,7 +96,7 @@ TBD
         <li>Important 2D and 3D transformations using homogeneous coordinates
         <li>Introduction to the pin-hole camera model
       </ul></td>
-      <td><a href="https://www.dropbox.com/s/9b073fpvacrwy9j/L1.pdf">Slides</a></td>
+      <td><a href="https://www.dropbox.com/s/k70kt7x4ybd2o5b/L1.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
       <td ><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
