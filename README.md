@@ -10,7 +10,7 @@
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Arjun is on campus only on Thursdays and Fridays. Meet him after class or fix an appointment over email.
 </ul>
 
-<--h3> Please note that CS663 is a hard prerequisite for this course.</h3--> 
+<h3> Please note that CS663 is a hard prerequisite for this course.</h3> 
 
 <h2>Topics to be covered (tentative)</h2>
 <ul>
