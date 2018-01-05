@@ -82,7 +82,7 @@ TBD
     <tr>
       <td>4th Jan. 2018</td>
       <td><ul><li>Introduction to computer vision, applications and course overview <ul></td>
-      <td><a href="https://github.com/cs763/Spring2018/blob/master/Lectures/1.%20Introduction/L1.pdf">Slides</a></td>
+      <td><a href="https://www.dropbox.com/s/6ougafa7f2o2im0/L1.pdf">Slides</a></td>
       <td align="center"> --
       </td>
       <td align="center">--</td>
@@ -96,7 +96,7 @@ TBD
         <li>Important 2D and 3D transformations using homogeneous coordinates
         <li>Introduction to the pin-hole camera model
       </ul></td>
-      <td><a href="https://github.com/cs763/Spring2018/blob/master/Lectures/2.%20Camera%20Geometry/L1.pdf">Slides</a></td>
+      <td><a href="https://www.dropbox.com/s/9b073fpvacrwy9j/L1.pdf">Slides</a></td>
       <td align="center"> --
       </td>
       <td ><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
