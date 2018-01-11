@@ -17,7 +17,7 @@ You can choose projects given in the list below or you can propose your project 
 <li><b>Barrel distortion estimation and removal:</b> 
 <li><b>Tracking objects using mean shift:</b> Associated paper <a href="http://comaniciu.net/Papers/MsTracking.pdf">link</a>
 <li><b>Simulating depth of field using stereo images:</b> Same as 1 but this time you have pair of sterio images, get the dataset from here <a href="http://vision.middlebury.edu/stereo/data/2014/">link</a>
-<li><b>Street sign translation:</b>T aking images of street signs and translating the text, as found in Google goggles, translate or World Lens(now defunct).
+<li><b>Street sign translation:</b> Taking images of street signs and translating the text, as found in Google goggles, translate or World Lens(now defunct).
 <li><b>Face detection using CNN:</b> Creating and training CNN model to output bounding box for faces in images.
 <li><b>Whale recognition (Kaggle Challenge):</b> Take a look at this <a href="https://www.kaggle.com/c/noaa-right-whale-recognition">link</a>
 </ol>
