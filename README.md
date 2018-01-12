@@ -66,7 +66,9 @@ from motion
 Read this <a href="projects">link</a> for a list of project topics, and various instructions regarding course project submissions and expectations. You can also refer to "extra interesting readings" in the lecture schedule or Stanford <a href="http://cs231n.stanford.edu/reports.html">course CS231n</a> projects for ideas.
 	
 <h2>Assignments</h2>
-TBD
+<ul>
+    <li> <a href="assignments/assignment1/">Assignment 1</a> has been released. The due date for submission is Friday, January 26, 2018.
+</ul>
 
 <h2>Lecture Schedule: </h2>
 
