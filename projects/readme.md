@@ -13,7 +13,7 @@ You can choose projects given in the list below or you can propose your project 
 <li><b>Evaluating handwritten mathematical expressions:</b> From a picture of a handwritten mathematical expression, your algorithm should recognize the expression and evaluate it.
 <li><b>Vehicle registration plate (Indian version) detection and recognition:</b> Build an automated pipeline to acquire registration plate from images of vehicle and do OCR on them.
 <li><b>Plane extraction on surfaces:</b> Track a section of a plane so that a user can place a 3D object on the surface, for augmented reality applications.
-<li><p><b>Glyph based AR application:</b> Images below depict typical glyphs. You job is to develop an appication which tracks these glyphs, computes homography, and overlays 3D graphics over it, as in typical AR application.</p><p align="center"> <img src="glyphs_sample.png"></p>
+<li><p><b>Glyph based AR application:</b> Images below depict typical glyphs. You job is to develop an appication which tracks these glyphs, computes homography, and overlays 3D graphics over it, as in typical AR application.</p><p style="text-align:center> <img src="glyphs_sample.png"></p>
 <li><b>Barrel distortion estimation and removal:</b> 
 <li><b>Tracking objects using mean shift:</b> Associated paper <a href="http://comaniciu.net/Papers/MsTracking.pdf">link</a>
 <li><b>Simulating depth of field using stereo images:</b> Same as 1 but this time you have pair of sterio images, get the dataset from here <a href="http://vision.middlebury.edu/stereo/data/2014/">link</a>
