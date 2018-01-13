@@ -106,9 +106,10 @@ Read this <a href="projects">link</a> for a list of project topics, and various 
      <tr>
       <td>12th Jan. 2018</td>
       <td><ul>
-	<li>Modeling the pinhole camera analytically 
-	<li>World, camera, image plane and sensor plane coordinate systems
-	<li>
+	<li>Modeling the pinhole camera analytically, intinsic and extrinsic parameters
+	<li>World, camera, image plane and sensor plane coordinate systems and transformations between them
+	<li>Linear and non-linear (lens distortion) errors
+	<li>Homography, planar world and pure rotation of the camera
       </ul></td>
       <td><a href="https://www.dropbox.com/s/ezcojdo79iw5aac/L2.pdf?dl=0">Slides</a></td>
       <td align="center"> --
@@ -119,9 +120,11 @@ Read this <a href="projects">link</a> for a list of project topics, and various 
      <tr>
       <td>13th Jan. 2018</td>
       <td><ul>
-	<li>
-	<li>
-	<li>
+	<li>Iterative solutions for dealing with with non-linear (lens distortion) errors
+	<li>Normalized, unit, ideal, Euclidian, affine and general camera models
+	<li>Orthographic and weak-perspective camera models
+	<li>Cross ratios and its applications
+	<li>Camera callibration using DLT (known 3D control points)
       </ul></td>
       <td><a href="https://www.dropbox.com/s/laf9ds64739y6wz/L3.pdf?dl=0">Slides</a></td>
       <td align="center"> --
