@@ -114,7 +114,7 @@ Read this <a href="projects">link</a> for a list of project topics, and various 
       <td><a href="https://www.dropbox.com/s/ezcojdo79iw5aac/L2.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
-      <td >--</td>
+      <td align="center">--</td>
   </tr>
   </tr>
      <tr>
@@ -129,7 +129,7 @@ Read this <a href="projects">link</a> for a list of project topics, and various 
       <td><a href="https://www.dropbox.com/s/laf9ds64739y6wz/L3.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
-      <td >--</td>
+      <td align="center">--</td>
   </tr>
   </tbody>
 </table>
