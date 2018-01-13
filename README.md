@@ -103,6 +103,31 @@ Read this <a href="projects">link</a> for a list of project topics, and various 
       </td>
       <td ><a href="http://www.ipb.uni-bonn.de/book-pcv/pdfs/PCV-A-sample-page.pdf">Homogeneous Representations of Points, Lines and Planes</a></td>
   </tr>
+     <tr>
+      <td>12th Jan. 2018</td>
+      <td><ul>
+	<li>Modeling the pinhole camera analytically 
+	<li>World, camera, image plane and sensor plane coordinate systems
+	<li>
+      </ul></td>
+      <td><a href="https://www.dropbox.com/s/ezcojdo79iw5aac/L2.pdf?dl=0">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td >--</td>
+  </tr>
+  </tr>
+     <tr>
+      <td>12th Jan. 2018</td>
+      <td><ul>
+	<li>Modeling the pinhole camera analytically 
+	<li>World, camera, image plane and sensor plane coordinate systems
+	<li>
+      </ul></td>
+      <td><a href="https://www.dropbox.com/s/laf9ds64739y6wz/L3.pdf?dl=0">Slides</a></td>
+      <td align="center"> --
+      </td>
+      <td >--</td>
+  </tr>
   </tbody>
 </table>
 
