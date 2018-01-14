@@ -7,6 +7,9 @@ You can choose projects given in the list below or you can propose your project 
   <li>Mid Term Review: 09/03/2018
 </ul>
 
+<h2>Project Proposal Form</h2>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfGj--GVldmIWVZFAisMirPZEE6S3a1cEYjTHsiNXm__GPpFg/viewform">Project Proposal Form</a>
+
 <h2>Some Proposed Projects</h2>
 <ol>
 <li><b>Bokeh(Depth of field) effect with a single camera <a href="https://en.wikipedia.org/wiki/Bokeh">(link): </b></a>Nowadays many mobile camera have "portrait mode", as they call it, which generates a synthetic depth of field effect. This is generally done using a dual camera design. Your challenge is to do it using a single camera image.
