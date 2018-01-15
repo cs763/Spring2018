@@ -17,13 +17,13 @@
 
 <li> Camera geometry, camera calibration, vanishing points, important
 transformations, homographies
+<li> Image registration: RANSAC for point-matching, SIFT overview
 <li> Deep Learning in computer vision: the data-driven paradigm, feed
 forwards networks, back-propagation and chain rule; CNNs and their
 building blocks, generative adverserial networks (GANs)
 <li> Deep Learning applications including face detection, CNN
 compression, siamese and triplet networks and applications to face
 recognition
-<li> Image registration: RANSAC for point-matching, SIFT overview
 <li> Algorithms for: shape from shading, optical flow,
 Kanade-Lucas-Tomasi algorithm, applications of optical flow
 <li> Photometric stereo - deriving shape from multiple images of an
@@ -63,7 +63,7 @@ from motion
 
 <h2>Course Projects</h2>
 
-Read this <a href="projects">link</a> for a list of project topics, and various instructions regarding course project submissions and expectations. You can also refer to "extra interesting readings" in the lecture schedule or Stanford <a href="http://cs231n.stanford.edu/reports.html">course CS231n</a> projects for ideas.
+Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.md">this link</a> for a list of project topics, and various instructions regarding course project submissions and expectations. You can also refer to "extra interesting readings" in the lecture schedule or Stanford <a href="http://cs231n.stanford.edu/reports.html">course CS231n</a> projects for ideas.
 	
 <h2>Assignments</h2>
 <ul>
@@ -121,7 +121,7 @@ Read this <a href="projects">link</a> for a list of project topics, and various 
       <td>13th Jan. 2018</td>
       <td><ul>
 	<li>Iterative solutions for dealing with with non-linear (lens distortion) errors
-	<li>Normalized, unit, ideal, Euclidian, affine and general camera models
+	<li>Normalized,  ideal, euclidian, affine and general camera models
 	<li>Orthographic and weak-perspective camera models
 	<li>Cross ratios and its applications
 	<li>Camera callibration using DLT (known 3D control points)
