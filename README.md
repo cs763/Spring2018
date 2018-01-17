@@ -39,7 +39,7 @@ from motion
 <li> Lecture slides that will be regularly posted
 <li><a href="http://szeliski.org/Book/">Computer Vision: Algorithms and Applications</a>, by Richard Szeliski</li>
 <li><a href="http://crcv.ucf.edu/gauss/BOOK.PDF">Fundamentals of Computer Vision</a>, by Mubarak Shah</li>
-<li> <a href = "http://www.deeplearningbook.org/">Deep Learning</a>, by Ian Goodfellow and Yoshua Bengio and Aaron Courville (freely downloadable!)
+<li> <a href = "http://www.deeplearningbook.org/">Deep Learning</a>, by Ian Goodfellow and Yoshua Bengio and Aaron Courville 
 <li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="https://github.com/cs763-dl/2017Spring/tree/master/Notebooks">here</a>
 </ul>
 
