@@ -129,7 +129,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td><a href="https://www.dropbox.com/s/laf9ds64739y6wz/L3.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
-      <td align="center">--</td>
+      <td align="center"><a href="http://inside.mines.edu/~whoff/courses/EENG512/lectures/17-SVD.pdf">Resource on SVD, how/why it can be used to solve eq. sytems of type <strong>Ax=0, |x|=1</strong></a></td>
   </tr>
   </tbody>
 </table>
