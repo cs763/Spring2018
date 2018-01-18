@@ -143,8 +143,8 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<li> Mention of DL based image patch descriptors
       </ul></td>
       <td>
-	<a href="https://www.dropbox.com/s/ojghsbe7xgfld0s/L4.pdf?dl=0">Zhang's camera calibration</a><br/>
-	<a href="https://www.dropbox.com/s/4hcodx1jtdtdnxv/L1.pdf?dl=0">Image alignment [Part 1]</a>
+	<a href="https://www.dropbox.com/s/ojghsbe7xgfld0s/L4.pdf?dl=0">Slides (1)</a><br/>
+	<a href="https://www.dropbox.com/s/4hcodx1jtdtdnxv/L1.pdf?dl=0">Slides (2)</a>
       </td>
       <td align="center"> -- </td>
       <td align="center"> -- </td>
