@@ -124,12 +124,30 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<li>Normalized,  ideal, euclidian, affine and general camera models
 	<li>Orthographic and weak-perspective camera models
 	<li>Cross ratios and its applications
-	<li>Camera callibration using DLT (known 3D control points)
+	<li>Camera calibration using DLT (known 3D control points)
       </ul></td>
       <td><a href="https://www.dropbox.com/s/laf9ds64739y6wz/L3.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
       <td align="center"><a href="http://inside.mines.edu/~whoff/courses/EENG512/lectures/17-SVD.pdf">Resource on SVD, how/why it can be used to solve eq. sytems of type <strong>Ax=0, |x|=1</strong></a></td>
+  </tr>
+    </tr>
+     <tr>
+      <td>18th Jan. 2018</td>
+      <td><ul>
+	<li>Zhang's camera calibration method, mention of a few DL based calibration methods
+	<li>Image alignment: problem statement, physically and digitally corresponding points
+	<li> Motion models and degrees of freedom; non-rigid/deformable/non-parametric image alignment
+	<li> Control point based image alignment using least squares - derivation for pseudo-inverse
+	<li> Introduction to the SIFT algorithm
+	<li> Mention of DL based image patch descriptors
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/ojghsbe7xgfld0s/L4.pdf?dl=0">Zhang's camera calibration</a><br/>
+	<a href="https://www.dropbox.com/s/4hcodx1jtdtdnxv/L1.pdf?dl=0">Image alignment [Part 1]</a>
+      </td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </td>
   </tr>
   </tbody>
 </table>
