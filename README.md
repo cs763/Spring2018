@@ -92,7 +92,9 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
   
    <tr>
       <td>5th Jan. 2018</td>
-      <td><ul>
+      <td>
+	<strong>Camera Geometry<strong>
+	<ul>
 	<li>Homogeneous coordinates and projective geometry
         <li>Vanishing points, ideal line, point line duality in P2
         <li>Important 2D and 3D transformations using homogeneous coordinates
