@@ -93,7 +93,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
    <tr>
       <td>5th Jan. 2018</td>
       <td>
-	<strong>Camera Geometry<strong>
+	<strong>Camera Geometry</strong>
 	<ul>
 	<li>Homogeneous coordinates and projective geometry
         <li>Vanishing points, ideal line, point line duality in P2
@@ -138,6 +138,9 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td>18th Jan. 2018</td>
       <td><ul>
 	<li>Zhang's camera calibration method, mention of a few DL based calibration methods
+	</ul>
+	      <strong>Image Alignment</strong>
+	<ul>
 	<li>Image alignment: problem statement, physically and digitally corresponding points
 	<li> Motion models and degrees of freedom; non-rigid/deformable/non-parametric image alignment
 	<li> Control point based image alignment using least squares - derivation for pseudo-inverse
@@ -162,6 +165,9 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<li>Concept of entropy and joint entropy, algorithm for multimodal registration by minimizing joint entropy
 	<li>Aspects of image registration: 2D/3D, motion model, monomodal or multimodal
 	<li>Application scenarios for image alignment: template matching, video stabilization, panorama generation, face recognition, 3D to 2D alignment
+	</ul>
+	      <strong>Robust Methods in Computer Vision</strong>
+	<ul>
 	<li>Least squares problems and their relation to the Gaussian distribution on the noise
 	<li>Examples of outliers in computer vision
 	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
