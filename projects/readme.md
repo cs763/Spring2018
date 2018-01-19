@@ -24,5 +24,6 @@ You can choose projects given in the list below or you can propose your project 
 <li><b>Face detection using CNN:</b> Creating and training CNN model to output bounding box for faces in images.
 <li><b>Whale recognition (Kaggle Challenge):</b> Take a look at this <a href="https://www.kaggle.com/c/noaa-right-whale-recognition">link</a>
 <li><b>Style transfer:</b> Transfer the style of a Van Gogh or your favorite artist to any other photograph or artwork <a href="http://genekogan.com/images/style-transfer/ml_cubist_expressionist_impressionist.jpg">link</a>
+<li><b>Neural Network Compression:</b> Though Neural networks achieve state-of-the-art results for most computer vision prolems, running them on low power embedded devices in real time is still a major challenge that the industry is facing. In this project, you will take a standard network (say ResNet-50) and try to make it more compute, bandwidth and memory effitient which not compromising on the quality of the generated results  <a href="https://arxiv.org/abs/1510.00149">link</a>.
 
 </ol>
