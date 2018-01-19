@@ -140,11 +140,36 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<li> Motion models and degrees of freedom; non-rigid/deformable/non-parametric image alignment
 	<li> Control point based image alignment using least squares - derivation for pseudo-inverse
 	<li> Introduction to the SIFT algorithm
+	<li> Forward and reverse image warping - bilinear and nearest-neighbor interpolation
 	<li> Mention of DL based image patch descriptors
       </ul></td>
       <td>
 	<a href="https://www.dropbox.com/s/ojghsbe7xgfld0s/L4.pdf?dl=0">Slides(1)</a><br/>
 	<a href="https://www.dropbox.com/s/4hcodx1jtdtdnxv/L1.pdf?dl=0">Slides(2)</a>
+      </td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </td>
+  </tr>
+       <tr>
+      <td>19th Jan. 2018</td>
+      <td><ul>
+	<li>Image alignment using image similarity measures: mean squared error, normalized cross-correlation
+	<li>Concept of field of view in image alignment using image similarity measures
+	<li>Monomodal and multimodal image alignment
+	<li>Concept of joint histograms and behaviour of joint histograms in multi-modal image alignment	
+	<li>Concept of entropy and joint entropy, algorithm for multimodal registration by minimizing joint entropy
+	<li>Aspects of image registration: 2D/3D, motion model, monomodal or multimodal
+	<li>Application scenarios for image alignment: template matching, video stabilization, panorama generation, face recognition, 3D to 2D alignment
+	<li>Least squares problems and their relation to the Gaussian distribution on the noise
+	<li>Examples of outliers in computer vision
+	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
+	<li>Introduction to the Laplacian distribution
+	<li>The importance of heavy-tailed distributions in robust statistics
+	<li>RANSAC (random sample consensus) algorithm
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/1d5cra9pu6425jz/L2.pdf?dl=0">Slides(1)</a><br/>
+	<a href="https://www.dropbox.com/s/xe752gshzpcc3w6/L1.pdf?dl=0">Slides(2)</a>
       </td>
       <td align="center"> -- </td>
       <td align="center"> -- </td>
