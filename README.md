@@ -182,6 +182,24 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td align="center"> -- </td>
       <td align="center"> -- </td>
   </tr>
+  
+  <tr>
+      <td>25th Jan. 2018</td>
+      <td>
+	      <strong>Recognizing images, objects, scenes (Prof. Suyash P. Awate)</strong>
+	<ul>
+	<li>Texture modeling and classification
+	<li>Image classification, challenges
+	<li>Bag of words model, dictionary learning
+	<li>Defining image similarity, pyramid match kernel (PMK)
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/tlc40a4bwuqicqo/Recognition.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </td>
+  </tr>
+  
   </tbody>
 </table>
 
