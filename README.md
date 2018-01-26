@@ -67,7 +67,8 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	
 <h2>Assignments</h2>
 <ul>
-    <li><time datetime="2018-01-12">[12-Feb-18]</time> <a href="assignments/assignment1/">Assignment 1</a> has been released. The due date for submission is Friday, January 26, 2018.
+    <li><time datetime="2018-01-12">[12-Jan-18]</time> <a href="assignments/assignment1/">Assignment 1</a> has been released. The due date for submission is Friday, January 26, 2018.
+    <li><time datetime="2018-01-27">[27-Jan-18]</time> <a href='https://www.dropbox.com/s/nbviv5h9g3a34ll/HW2_Alignment.tar.gz?dl=0>Assignment 2 </a> has been released. The due date for submission is Sunday, February 4, 2018.
 </ul>
 
 <h2>Lecture Schedule: </h2>
