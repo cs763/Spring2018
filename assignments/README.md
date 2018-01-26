@@ -3,5 +3,5 @@
 <ol>
   
   <li>Assignment 1 on Camera Geometry has been released. Due date: January 26, 2018.
-  <li>Assignment 2 on Image Alignment and Robust Methods has been <a href="https://www.dropbox.com/s/nbviv5h9g3a34ll/HW2_Alignment.tar.gz?dl=0">released</a>. Due date: February 4, 2018.
+  <li>Assignment 2 on Image Alignment and Robust Methods has been <a href="https://www.dropbox.com/s/u0l7gs0dy2rq11l/HW2.pdf?dl=0">released</a>. Due date: February 4, 2018.
 </ol>
