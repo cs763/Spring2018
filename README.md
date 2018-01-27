@@ -185,7 +185,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
   </tr>
   
   <tr>
-      <td>25th Jan. 2018</td>
+      <td style="background-color:#ffffe6;">25th Jan. 2018</td>
       <td>
 	      <strong>Recognizing images, objects, scenes (Prof. Suyash P. Awate)</strong>
 	<ul>
