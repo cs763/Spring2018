@@ -54,4 +54,12 @@ Uday Kusupati, Jayanth Shankar, Manoj Kilaru <br>
 Applying style from another image(painting, texture etc) to image of car, Sort of similar to prisma but for car exteriors .
   
 Idea is to identify the body of car using segmentation on the car parts. Next we will build upon an efficient solution proposed by Leon A. Gatys where they train feed-forward convolutional neural networks by defining and optimizing perceptual loss functions. Intend is to also use cues like depth, neighborhood pixels, as well as planarity to transfer style better.
+
+<li><b>Implementing Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects</b><br>
+Rishab Garg, Abhishek Kumar <br>
+
+Implementing <a href="https://arxiv.org/abs/1705.06368">Re3 : Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects</a>
+
+A robust object tracking algorithm based which utilises the combination of CNN & LSTM. This optimized tracker is capable of tracking objects at 150 FPS, while attaining impressive results on various benchmarks. This tracker also handles temporary occlusion better than other comparable trackers. Involving LSTM gives real-time deep object tracker capability to incorporating temporal information into its model. All this is achieved in with a single forward pass.
+
 </ol>
