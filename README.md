@@ -202,6 +202,20 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td align="center"> -- </td>
       <td align="center"> -- </td>
   </tr>
+    <tr>
+      <td bgcolor="#ffffe6">1st Feb. 2018</td>
+      <td>
+	      <strong>Recognizing images, objects, scenes (Prof. Suyash P. Awate)</strong>
+	<ul>
+	<li>Pyramid match kernel (PMK)
+	<li>Kernel coding, local coding, vector quantization, sparse coding, LcLC
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/tlc40a4bwuqicqo/Recognition.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </td>
+  </tr>
   
   </tbody>
 </table>
