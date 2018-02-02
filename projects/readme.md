@@ -17,7 +17,7 @@ You can choose projects given in the list below or you can propose your project 
   
   Mask R-CNN efficiently detects objects in an image while simultaneously generating a high-quality segmentation mask for each instance. Instance segmentation involves detection of all objects in the image as well as precise segmentation of each instance.The related research paper was published by Facebook AI Research. Through this project, we aim to implement this model in pytorch and perform experiments on the PASCAL-VOC dataset. We also shall make an attempt to provide a modification to the model which helps in improving the accuracies on the vision tasks as described in the paper. Another incentive of this project is that no working code is yet available in pytorch/tensorflow, which are the popular frameworks today. This will largely benefit the deep learning community.
 
-<li><b>Object Detection:</b> <br>
+<li><b>Object Detection</b> <br>
    <i> Kratika Gupta, Pratik Kalshetty, Naman Rastogi   </i><br>
   
   The aim of this project is to implement a system which is capable of detecting and localising objects in an image. The goal is to achieve accurate object detection at a high speed. The ideas in YOLO (You Only Look Once: Unified, Real-Time Object Detection) will help in implementing the project. For the purpose of this project, the publicly available PASCAL VOC dataset will be used. It consists of $10$k annotated images with $20$ object classes with $25$k object annotations. 
@@ -32,7 +32,7 @@ You can choose projects given in the list below or you can propose your project 
 
 In our project, we plan to work on detecting human activities from videos. There exists a good amount of literature and data in this area, yet, there is room for improvement. Our initial endeavours would be towards exploring 3D CNNs, as is proposed in the literature, to approach the problem. We also intend to incorporate Connectionist Temporal Classification (CTC) losses in our temporal architectures for improved detection. 
 
-<li><p><b>Glyph based AR application:</b>
+<li><p><b>Glyph based AR application</b>
   <br>   <i>Sachin Goyal, Mohit Madan, Michelle Barnette  </i><br> 
 
 We wish to perform glyph based AR using the following steps: 1) Glyph-boundary recognition using edge detection. 2) Estimating of the distortion (orientation and scaling) in 3D space. 3) Placing any image on the glyph in 3D space (applying rigid transformations). 4) Identification of the glyph pattern and placing specific image on glyph. 5) (If time permits) placing a 3D object on glyph.
@@ -55,9 +55,9 @@ It is crucial to identify the terrain of Amazon rainforest to help the governmen
 
 <li><b>Style Transfer on Car Exteriors</b><br>
 <i>Uday Kusupati, Jayanth Shankar, Manoj Kilaru </i><br>
-Applying style from another image(painting, texture etc) to image of car, Sort of similar to prisma but for car exteriors .
+Applying style from another image(painting, texture etc) to image of car, sort of similar to prisma but for car exteriors.
   
-Idea is to identify the body of car using segmentation on the car parts. Next we will build upon an efficient solution proposed by Leon A. Gatys where they train feed-forward convolutional neural networks by defining and optimizing perceptual loss functions. Intend is to also use cues like depth, neighborhood pixels, as well as planarity to transfer style better.
+Idea is to identify the body of car using segmentation on the car parts. Next we will build upon an efficient solution proposed by Leon A. Gatys where they train feed-forward convolutional neural networks by defining and optimizing perceptual loss functions. Intent is to also use cues like depth, neighborhood pixels, as well as planarity to transfer style better.
 
 <li><b>Implementing Re3: Real-Time Recurrent Regression Networks for Visual Tracking of Generic Objects</b><br>
 <i>Rishab Garg, Abhishek Kumar </i><br>
