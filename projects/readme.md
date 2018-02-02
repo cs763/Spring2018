@@ -12,18 +12,45 @@ You can choose projects given in the list below or you can propose your project 
 
 <h2>Some Proposed Projects</h2>
 <ol>
-<li><b>Bokeh(Depth of field) effect with a single camera <a href="https://en.wikipedia.org/wiki/Bokeh">(link): </b></a>Nowadays many mobile camera have "portrait mode", as they call it, which generates a synthetic depth of field effect. This is generally done using a dual camera design. Your challenge is to do it using a single camera image.
-<li><b>Evaluating handwritten mathematical expressions:</b> From a picture of a handwritten mathematical expression, your algorithm should recognize the expression and evaluate it.
-<li><b>Vehicle registration plate (Indian version) detection and recognition:</b> Build an automated pipeline to acquire registration plate from images of vehicle and do OCR on them.
-<li><b>Plane extraction on surfaces:</b> Track a section of a plane so that a user can place a 3D object on the surface, for augmented reality applications.
-<li><p><b>Glyph based AR application:</b> Images below depict typical glyphs. You job is to develop an appication which tracks these glyphs, computes homography, and overlays 3D graphics over it, as in typical AR application.</p><p align="center"> <img src="glyphs_sample.png"></p>
-<li><b>Barrel distortion estimation and removal:</b> 
-<li><b>Tracking objects using mean shift:</b> Associated paper <a href="http://comaniciu.net/Papers/MsTracking.pdf">link</a>
-<li><b>Simulating depth of field using stereo images:</b> Same as 1 but this time you have pair of sterio images, get the dataset from here <a href="http://vision.middlebury.edu/stereo/data/2014/">link</a>
-<li><b>Street sign translation:</b> Taking images of street signs and translating the text, as found in Google goggles, translate or World Lens(now defunct).
-<li><b>Face detection using CNN:</b> Creating and training CNN model to output bounding box for faces in images.
-<li><b>Whale recognition (Kaggle Challenge):</b> Take a look at this <a href="https://www.kaggle.com/c/noaa-right-whale-recognition">link</a>
-<li><b>Style transfer:</b> Transfer the style of a Van Gogh or your favorite artist to any other photograph or artwork <a href="http://genekogan.com/images/style-transfer/ml_cubist_expressionist_impressionist.jpg">link</a>
-<li><b>Neural Network Compression:</b> Though Neural networks achieve state-of-the-art results for most computer vision prolems, running them on low power embedded devices in real time is still a major challenge that the industry is facing. In this project, you will take a standard network (say ResNet-50) and try to make it more compute, bandwidth and memory effitient which not compromising on the quality of the generated results  <a href="https://arxiv.org/abs/1510.00149">link</a>.
+<li><b>MASK R-CNN for Object Instance Segmentation </b><br>
+  Meet Pragnesh Shah, Mehta Nihar Nikhil, Parth Ashit Kothari <br>
+  
+  Mask R-CNN efficiently detects objects in an image while simultaneously generating a high-quality segmentation mask for each instance. Instance segmentation involves detection of all objects in the image as well as precise segmentation of each instance.The related research paper was published by Facebook AI Research. Through this project, we aim to implement this model in pytorch and perform experiments on the PASCAL-VOC dataset. We also shall make an attempt to provide a modification to the model which helps in improving the accuracies on the vision tasks as described in the paper. Another incentive of this project is that no working code is yet available in pytorch/tensorflow, which are the popular frameworks today. This will largely benefit the deep learning community.
+
+<li><b>Object Detection:</b> <br>
+  Kratika Gupta, Pratik Kalshetty, Naman Rastogi <br>
+  
+  The aim of this project is to implement a system which is capable of detecting and localising objects in an image. The goal is to achieve accurate object detection at a high speed. The ideas in YOLO (You Only Look Once: Unified, Real-Time Object Detection) will help in implementing the project. For the purpose of this project, the publicly available PASCAL VOC dataset will be used. It consists of $10$k annotated images with $20$ object classes with $25$k object annotations. 
+
+<li><b>Plane Extraction on Surfaces</b> <br> Tejesh Raut, Deep Modh, Chaitanya Rajesh <br>   
+  
+  In this project, we aim to track a section of a plane in the image so that a user can place a 3D object on the surface, for augmented reality applications. We would recognise if the texture to be detected is present or not in the image. If present, we can then find its position and orientation in the image and finally pply the transformation on predefined hardcoded 3D model in order to place the object on the surface plane. The output will be an image along with the 3D model placed on it.
+  
+<li><b>Activity Recognition</b> <br> Naman Jain, Sahil Shah, Uddeshya <br>
+
+In our project, we plan to work on detecting human activities from videos. There exists a good amount of literature and data in this area, yet, there is room for improvement. Our initial endeavours would be towards exploring 3D CNNs, as is proposed in the literature, to approach the problem. We also intend to incorporate Connectionist Temporal Classification (CTC) losses in our temporal architectures for improved detection. 
+
+<li><p><b>Glyph based AR application:</b> <br> Sachin Goyal, Mohit Madan, Michelle Barnette <br> 
+
+We wish to perform glyph based AR using the following steps: 1) Glyph-boundary recognition using edge detection. 2) Estimating of the distortion (orientation and scaling) in 3D space. 3) Placing any image on the glyph in 3D space (applying rigid transformations). 4) Identification of the glyph pattern and placing specific image on glyph. 5) (If time permits) placing a 3D object on glyph.
+
+
+<li><b>Vehicle registration plate detection and recognition</b> <br>Chintan Tundia, Shabana K M, Sukanya Bhattacharjee <br>
+
+In this project, we aim to build an automated pipeline to perform license plate detection from images of vehicles and perform recognition of characters in the number plate. This would involve first localizing the number plate in the image followed by detecting the numbers. For the current project, we plan to stick to Indian number plates only.
+                                        
+<li> <b> Video Prediction using GANS </b> <br>
+Alok Kumar Bishoyi <br>
+
+Adversarial networks have recently been used to predict future video frames. I plan to implement ‘Deep Multi-Scale Video Prediction beyond Mean Square Error’ for Chainer users. I also plan to test and train on sample games like Pong, Breakout, etc.
+
+<li> <b> Label satellite image chips from Amazon rainforest with atmospheric conditions and various classes of land cover </b> <br>
+Kalpesh Dusane, Arijit Mukherjee, Vaishali Shakya <br>
+
+It is crucial to identify the terrain of Amazon rainforest to help the government track the region of deforestation or human infiltration of forest which in turns help minimize the devastating effects of climate change. Due to recent advancements in technology, we can capture satellite images but manually monitor and labeling this satellite images would be a tedious and unreliable task. To solve this problem, we represent model which assign multiple labels to the image describing various climate conditions and landmark. We seek to explore different deep convolutional neural network architectures to do the image labeling task and learn how changing various factors such as hyperparameters affect the performance of our neural net model.
+
+<li><b>Style Transfer on Car Exteriors</b><br>
+Uday Kusupati, Jayanth Shankar, Manoj Kilaru <br>
+https://www.cse.iitb.ac.in/~manojkilaru/Cs763PP.pd
 
 </ol>
