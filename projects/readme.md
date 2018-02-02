@@ -51,6 +51,7 @@ It is crucial to identify the terrain of Amazon rainforest to help the governmen
 
 <li><b>Style Transfer on Car Exteriors</b><br>
 Uday Kusupati, Jayanth Shankar, Manoj Kilaru <br>
-https://www.cse.iitb.ac.in/~manojkilaru/Cs763PP.pd
-
+Applying style from another image(painting, texture etc) to image of car, Sort of similar to prisma but for car exteriors .
+  
+Idea is to identify the body of car using segmentation on the car parts. Next we will build upon an efficient solution proposed by Leon A. Gatys where they train feed-forward convolutional neural networks by defining and optimizing perceptual loss functions. Intend is to also use cues like depth, neighborhood pixels, as well as planarity to transfer style better.
 </ol>
