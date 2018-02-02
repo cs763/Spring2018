@@ -63,7 +63,9 @@ from motion
 
 <h2>Course Projects</h2>
 
-Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.md">this link</a> for a list of project topics, and various instructions regarding course project submissions and expectations. You can also refer to "extra interesting readings" in the lecture schedule or Stanford <a href="http://cs231n.stanford.edu/reports.html">course CS231n</a> projects for ideas.
+<strong>[02/02/2018] Course projects have now been finalized.</strong>
+
+Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.md">this link</a> for the finalized list.
 	
 <h2>Assignments</h2>
 <ul>
