@@ -222,19 +222,16 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	      <strong>Robust Methods in Computer Vision</strong>
 	<ul>
 	<li>RANSAC time complexity analysis, analysis of expected no. of iterations
-	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
+	<li>Using RANSAC for Homography estimation
 	<li>Introduction to the Laplacian distribution
-	<li>The importance of heavy-tailed distributions in robust statistics
-	<li>RANSAC (random sample consensus) algorithm
+	<li>LMeds: Least Median of Squares
       </ul>
-      <strong>Robust Methods in Computer Vision</strong>
+      <strong>Deep Learning for Computer Vision</strong>
 	<ul>
-	<li>Least squares problems and their relation to the Gaussian distribution on the noise
-	<li>Examples of outliers in computer vision
-	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
-	<li>Introduction to the Laplacian distribution
-	<li>The importance of heavy-tailed distributions in robust statistics
-	<li>RANSAC (random sample consensus) algorithm
+	<li>History, introduction
+	<li>Data driven paradigm
+	<li>K-NN on CIFAR 10
+	<li>Hyperparameters, choice of loss function, cross-validation
       </ul>
       </td>
       <td>
