@@ -216,6 +216,34 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td align="center"> -- </td>
       <td align="center"> -- </td>
   </tr>
+  <tr>
+      <td bgcolor="#ffffe6">2nd Feb. 2018</td>
+      <td>
+	      <strong>Robust Methods in Computer Vision</strong>
+	<ul>
+	<li>RANSAC time complexity analysis, analysis of expected no. of iterations
+	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
+	<li>Introduction to the Laplacian distribution
+	<li>The importance of heavy-tailed distributions in robust statistics
+	<li>RANSAC (random sample consensus) algorithm
+      </ul>
+      <strong>Robust Methods in Computer Vision</strong>
+	<ul>
+	<li>Least squares problems and their relation to the Gaussian distribution on the noise
+	<li>Examples of outliers in computer vision
+	<li>Explanation of why the Gaussian distribution is unsuited to handling outliers
+	<li>Introduction to the Laplacian distribution
+	<li>The importance of heavy-tailed distributions in robust statistics
+	<li>RANSAC (random sample consensus) algorithm
+      </ul>
+      </td>
+      <td>
+	<a href="https://www.dropbox.com/s/vtieofvop7p02l7/L2.pdf?dl=0">Slides(1)</a><br/>
+	<a href="https://www.dropbox.com/s/0905ck0kwdyj6bv/L1.pdf?dl=0">Slides(2)</a><br/>
+      </td>
+      <td align="center"> -- </td>
+      <td align="center"> -- </td>
+  </tr>
   
   </tbody>
 </table>
