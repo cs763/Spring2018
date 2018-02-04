@@ -71,4 +71,15 @@ A robust object tracking algorithm based which utilises the combination of CNN &
   
 In this project I plan to discern the number of human beings in a scene (indoors or outdoors) by processing a scene using conventional computer vision methods and compare their accuracy, time to solution and improvement with the results obtained by deep learning methods. Both methods will be pit against the 2014 publication: "A Thermal Infrared Video Benchmark for Visual Analysis" using the sets processed in this paper.
 
+<li><b>One Shot Learning using Siamese Networks</b> <br>
+  <i> Deepak Gupta </i> <br>
+  
+The project involves exploring siamese networks to find similarities among images and classify them accordingly. Siamese networks are great at predicting similarity between two images. They have a few shot learning architecture. The datasets that will investigated for this project are MNIST, Omniglot and face dataset.
+
+<li><b>Face detection using CNN</b> <br>
+  <i> Khursheed Ali, Ayush Goyal and Anshul Gupta
+ </i> <br>
+  
+In real-world face detection, large visual variations, such as those due to pose, expression, and lighting, demand an advanced discriminative model to accurately differentiate faces from the backgrounds. Consequently, effective models for the problem tend to be computationally prohibitive. To address these two conflicting challenges, we propose a cascade architecture built on convolutional neural networks (CNNs) with very powerful discriminative capability, while maintaining high performance. Objective of this project will be to detect faces in the realtime images of scene i.e a scene may have many faces with different scale, poses, our system will try to detect all those faces. 
+
 </ol>
