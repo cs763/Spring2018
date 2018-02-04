@@ -221,7 +221,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td>
 	      <strong>Robust Methods in Computer Vision</strong>
 	<ul>
-	<li>RANSAC time complexity analysis, analysis of expected no. of iterations
+	<li>RANSAC: time complexity and expected no. of iterations
 	<li>Using RANSAC for Homography estimation
 	<li>Introduction to the Laplacian distribution
 	<li>LMeds: Least Median of Squares
