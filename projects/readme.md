@@ -66,4 +66,9 @@ Implementing <a href="https://arxiv.org/abs/1705.06368">Re3: Real-Time Recurrent
 
 A robust object tracking algorithm based which utilises the combination of CNN & LSTM. This optimized tracker is capable of tracking objects at 150 FPS, while attaining impressive results on various benchmarks. This tracker also handles temporary occlusion better than other comparable trackers. Involving LSTM gives real-time deep object tracker capability to incorporating temporal information into its model. All this is achieved in with a single forward pass.
 
+<li><b>People detection and counting using thermal imaging</b> <br>
+  <i> Smita Anil Gholkar </i> <br>
+  
+In this project I plan to discern the number of human beings in a scene (indoors or outdoors) by processing a scene using conventional computer vision methods and compare their accuracy, time to solution and improvement with the results obtained by deep learning methods. Both methods will be pit against the 2014 publication: "A Thermal Infrared Video Benchmark for Visual Analysis" using the sets processed in this paper.
+
 </ol>
