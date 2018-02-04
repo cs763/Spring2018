@@ -239,7 +239,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<a href="https://www.dropbox.com/s/0905ck0kwdyj6bv/L1.pdf?dl=0">Slides(2)</a><br/>
       </td>
       <td align="center"> -- </td>
-      <td align="center"> -- </td>
+      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/NN.ipynb">KNN</a></td>
   </tr>
   
   </tbody>
