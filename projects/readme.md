@@ -80,6 +80,13 @@ The project involves exploring siamese networks to find similarities among image
   <i> Khursheed Ali, Ayush Goyal and Anshul Gupta
  </i> <br>
   
-In real-world face detection, large visual variations, such as those due to pose, expression, and lighting, demand an advanced discriminative model to accurately differentiate faces from the backgrounds. Consequently, effective models for the problem tend to be computationally prohibitive. To address these two conflicting challenges, we propose a cascade architecture built on convolutional neural networks (CNNs) with very powerful discriminative capability, while maintaining high performance. Objective of this project will be to detect faces in the realtime images of scene i.e a scene may have many faces with different scale, poses, our system will try to detect all those faces. 
+
+Face detection has vas applications in the areas ranging from surveillance, 
+security, crowd size estimation to social networking etc. The challenge 
+lies in creating a model which is agnostic to lightning conditions, 
+pose, accessories and occlusion. We aim to create a pipeline which takes 
+an image as an input and creates a bounding box on the faces of all the 
+people in the image. Further, if the dimension of the face is above a certain 
+threshold, we will detect the expression of the person.
 
 </ol>
