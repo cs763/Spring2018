@@ -89,4 +89,9 @@ an image as an input and creates a bounding box on the faces of all the
 people in the image. Further, if the dimension of the face is above a certain 
 threshold, we will detect the expression of the person.
 
+<li><b>Image Captioning</b><br>
+  <i>Yugal Sachdev</i><br>
+
+The goal of this project is to generate natural language descriptions of images and their regions. It will use combination of CNN over image regions, bidirectional RNN over sentences, and a structured loss function that aligns the two modalities - text and images, through a multimodal embedding. I will be implementing 'Deep Visual-Semantic Alignments for Generating Image Descriptions' on Flikr8K, Flickr30K and MSCOCO datasets using Tensorflow and Keras.
+
 </ol>
