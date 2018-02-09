@@ -257,7 +257,9 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       </td>
       <td align="center"> <a href="https://www.dropbox.com/s/i3jvya22tf5jtbs/GradientCheck.ipynb?dl=0">Gradient Check</a> </td>
       <td align="center"> <a href="https://github.com/pytorch/pytorch/blob/master/torch/optim/adam.py#L58">ADAM</a>, 
-      <a href="https://github.com/fidlej/optim/raw/master/dok/nesterov_simple.pdf">Nesterov</a> </td>
+      <a href="https://github.com/fidlej/optim/raw/master/dok/nesterov_simple.pdf">Nesterov</a> <br/>
+      <a href="http://ruder.io/optimizing-gradient-descent/index.html">DL optimization algorithms overview</a>
+      </td>
   </tr>
   
   </tbody>
