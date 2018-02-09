@@ -255,7 +255,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td>
 	<a href="https://www.dropbox.com/s/fqs0hjisv4o6ukj/L2.pdf?dl=0">Slides</a><br/>
       </td>
-      <td align="center"> -- </td>
+      <td align="center"> <a href="https://www.dropbox.com/s/i3jvya22tf5jtbs/GradientCheck.ipynb?dl=0">Gradient Check</a> </td>
       <td align="center"> <a href="https://github.com/pytorch/pytorch/blob/master/torch/optim/adam.py#L58">ADAM</a>, 
       <a href="https://github.com/fidlej/optim/raw/master/dok/nesterov_simple.pdf">Nesterov</a> </td>
   </tr>
