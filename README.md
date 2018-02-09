@@ -134,7 +134,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td><a href="https://www.dropbox.com/s/laf9ds64739y6wz/L3.pdf?dl=0">Slides</a></td>
       <td align="center"> --
       </td>
-      <td align="center"><a href="http://inside.mines.edu/~whoff/courses/EENG512/lectures/17-SVD.pdf">Resource on SVD, how/why it can be used to solve eq. sytems of type <strong>Ax=0, |x|=1</strong></a></td>
+      <td ><a href="http://inside.mines.edu/~whoff/courses/EENG512/lectures/17-SVD.pdf">Resource on SVD, how/why it can be used to solve eq. sytems of type <strong>Ax=0, |x|=1</strong></a></td>
   </tr>
     </tr>
      <tr>
@@ -239,7 +239,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<a href="https://www.dropbox.com/s/0905ck0kwdyj6bv/L1.pdf?dl=0">Slides(2)</a><br/>
       </td>
       <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/NN.ipynb">KNN</a></td>
-      <td align="center"> <a href="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html">Matrix calculus reminder</a>
+      <td > <a href="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html">Matrix calculus reminder</a>
       </td> 
   </tr>
    <tr>
