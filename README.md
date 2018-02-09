@@ -239,8 +239,25 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<a href="https://www.dropbox.com/s/0905ck0kwdyj6bv/L1.pdf?dl=0">Slides(2)</a><br/>
       </td>
       <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/NN.ipynb">KNN</a></td>
-      <td align="center"> <a href="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html">Matrix calculus reminder</a> </td>
-      
+      <td align="center"> <a href="http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html">Matrix calculus reminder</a>
+      </td> 
+  </tr>
+   <tr>
+      <td bgcolor="#ffffe6">8th Feb. 2018</td>
+      <td>
+	<ul>
+	<li>Softmax classifier, cross-entropy loss function, regularization
+	<li>Optimization: vanilla gradient descent, stochastic gradient descent
+	<li>Vanilla momentum, Nesterov momentum, AdaGrad, RMSProp, ADAM 
+	<li>Second order optimization methods, it's issues with deep learning
+	<li>Good learning rate, learning rate decay
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/fqs0hjisv4o6ukj/L2.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td align="center"> -- </td>
+      <td align="center"> <a href="https://github.com/pytorch/pytorch/blob/master/torch/optim/adam.py#L58">ADAM</a>, 
+      <a href="https://github.com/fidlej/optim/raw/master/dok/nesterov_simple.pdf">Nesterov</a> </td>
   </tr>
   
   </tbody>
