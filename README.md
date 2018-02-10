@@ -262,7 +262,22 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <a href="http://ruder.io/optimizing-gradient-descent/index.html">DL optimization algorithms overview</a>
       </td>
   </tr>
-  
+     <tr>
+      <td bgcolor="#ffffe6">9th Feb. 2018</td>
+      <td>
+	<ul>
+	<li>Feed forward, back-propagation
+	<li>Fully connected layer
+	<li>Activation functions: sigmoid, tanh, ReLU, LeakyReLU, ELU, etc.
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/74mfpskzxqpbjlv/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td align="center"> <a href="https://www.dropbox.com/s/r5mnusn4p6k17kk/Linear.ipynb?dl=0">Linear Layer</a>,
+	      <a href="https://www.dropbox.com/s/ckbxiqse44ymxqs/ReLU.ipynb?dl=0">ReLU</a>
+	</td>
+      <td > -- </td>
+  </tr>
   </tbody>
 </table>
 
