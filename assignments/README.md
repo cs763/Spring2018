@@ -4,5 +4,5 @@
   
   <li>[12-Jan-18] Assignment 1 on Camera Geometry has been <a href="https://www.dropbox.com/s/mltmtj7bpc401vm/HW1.pdf?dl=0">released</a>. Due date: January 26, 2018.
   <li>[27-Jan-18] Assignment 2 on Image Alignment and Robust Methods has been <a href="https://www.dropbox.com/s/u0l7gs0dy2rq11l/HW2.pdf?dl=0">released</a>. Due date: February 4, 2018.
-  <li>[9-Feb-18] Assignment 3 on Neural Networks has been <a href="https://www.dropbox.com/s/b92xpq1zvec5956/HW3.pdf?dl=0">released</a>. Due date: February 21, 2018. Corresponding kaggle competition <a href="https://www.kaggle.com/c/assign3">link</a>
+  <li>[9-Feb-18] Assignment 3 on Neural Networks has been <a href="https://www.dropbox.com/s/b92xpq1zvec5956/HW3.pdf?dl=0">released</a>. Due date: February 21, 2018. <strong>Corresponding kaggle competition <a href="https://www.kaggle.com/c/assign3">link</a></strong>
 </ol>
