@@ -273,8 +273,8 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td>
 	<a href="https://www.dropbox.com/s/74mfpskzxqpbjlv/L1.pdf?dl=0">Slides</a><br/>
       </td>
-      <td align="center"> <a href="https://www.dropbox.com/s/r5mnusn4p6k17kk/Linear.ipynb?dl=0">Linear Layer</a>,
-	      <a href="https://www.dropbox.com/s/ckbxiqse44ymxqs/ReLU.ipynb?dl=0">ReLU</a>
+      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Linear.ipynb">Linear Layer</a>,
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/ReLU.ipynb">ReLU</a>
 	</td>
       <td > -- </td>
   </tr>
