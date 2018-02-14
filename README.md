@@ -279,7 +279,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td > -- </td>
   </tr>
   <tr>
-      <td bgcolor="#ffffe6">9th Feb. 2018</td>
+      <td bgcolor="#ffffe6">15th Feb. 2018</td>
       <td>
 	<ul>
 	<li>Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
@@ -288,9 +288,9 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td>
 	<a href="">Slides</a><br/>
       </td>
-      <td align="center"> <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Max-Pool.ipynb">MaxPool</a>,
-	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Convolution.ipynb">Convolution</a>,
-	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>,<a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a>
+      <td > <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Max-Pool.ipynb">MaxPool</a>, 
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Convolution.ipynb">Convolution</a>, 
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>, <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a>
 	</td>
       <td > <a href="https://arxiv.org/pdf/1603.07285.pdf">Convolution arithmetic for deep
 learning</a> </td>
