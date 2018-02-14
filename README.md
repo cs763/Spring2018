@@ -225,6 +225,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 	<li>RANSAC: time complexity and expected no. of iterations
 	<li>Using RANSAC for Homography estimation
 	<li>Introduction to the Laplacian distribution
+	<li>Mean versus median: L2 fit versus L1 fit
 	<li>LMeds: Least Median of Squares
       </ul>
       <strong>Deep Learning for Computer Vision</strong>
