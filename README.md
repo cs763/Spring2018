@@ -284,18 +284,19 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td>
 	<ul>
 	<li>Convolutions: transposed, dilated, fully-connected as convolution, sliding window as convolution
-	<li>Max-pooling, SoftMax, Cross Entropy
+	<li>Max-pooling, Dropout
       </ul></td>
       <td>
-	<a href="">Slides</a><br/>
+	<a href="https://www.dropbox.com/s/6tm79bgbwtgn2dx/L1.pdf?dl=0">Slides</a><br/>
       </td>
       <td > <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Max-Pool.ipynb">MaxPool</a>, 
 	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Convolution.ipynb">Convolution</a>, 
-	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>, <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a>
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Transposed%20Convolution.ipynb">Transposed convolution</a>, <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/Dropout.ipynb">Dropout</a>
 	</td>
       <td > <a href="https://arxiv.org/pdf/1603.07285.pdf">Convolution arithmetic for deep
 learning</a> </td>
   </tr>
+  
   </tbody>
 </table>
 
