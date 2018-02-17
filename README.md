@@ -296,7 +296,6 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
       <td > <a href="https://arxiv.org/pdf/1603.07285.pdf">Convolution arithmetic for deep
 learning</a> </td>
   </tr>
-  
     <tr>
       <td bgcolor="#ffffe6">16th Feb. 2018</td>
       <td>
@@ -310,10 +309,10 @@ learning</a> </td>
       </td>
       <td > <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a>, 
 	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/WeightInit.ipynb">Weight </a>, 
-	
 	</td>
       <td > --  </td>
-  </tr>
+  </tr>  
+
   
   </tbody>
 </table>
