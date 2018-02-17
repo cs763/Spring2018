@@ -297,6 +297,24 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
 learning</a> </td>
   </tr>
   
+    <tr>
+      <td bgcolor="#ffffe6">16th Feb. 2018</td>
+      <td>
+	<ul>
+	<li>SoftMax, Cross Entropy
+	<li>Data Augmentation, hyperparamter selection
+	<li>Weight initialization
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/rccluwz3z0jsaup/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a>, 
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/WeightInit.ipynb">Weight </a>, 
+	
+	</td>
+      <td > --  </td>
+  </tr>
+  
   </tbody>
 </table>
 
