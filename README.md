@@ -308,7 +308,7 @@ learning</a> </td>
 	<a href="https://www.dropbox.com/s/rccluwz3z0jsaup/L1.pdf?dl=0">Slides</a><br/>
       </td>
       <td > <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/CEC.ipynb">Cross Entropy</a>, 
-	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/WeightInit.ipynb">Weight </a>, 
+	      <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/WeightInit.ipynb">Weight Initialization</a> 
 	</td>
       <td > --  </td>
   </tr>  
