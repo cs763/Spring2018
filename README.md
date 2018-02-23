@@ -314,7 +314,7 @@ learning</a> </td>
   </tr>  
    </tr>
     <tr>
-      <td bgcolor="#ffffe6">16th Feb. 2018</td>
+      <td bgcolor="#ffffe6">22nd Feb. 2018</td>
       <td>
 	<ul>
 	<li>CNN Case Studies: AlexNet, ZFNet, VGGNet, GoogleNet, ResNet, ...
@@ -328,10 +328,6 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>  
-  
-  
-
-  
   </tbody>
 </table>
 
