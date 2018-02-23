@@ -312,6 +312,24 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>  
+   </tr>
+    <tr>
+      <td bgcolor="#ffffe6">16th Feb. 2018</td>
+      <td>
+	<ul>
+	<li>CNN Case Studies: AlexNet, ZFNet, VGGNet, GoogleNet, ResNet, ...
+        <li>Compute heavy layers vs bandwidth and parameter heavy layers
+	<li>Myth buster: You need a lot of data to train ConvNets (false!)
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/clvkp7a22kvgygv/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > --
+	</td>
+      <td > --  </td>
+  </tr>  
+  
+  
 
   
   </tbody>
