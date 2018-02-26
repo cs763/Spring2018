@@ -312,6 +312,19 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>  
+  <td bgcolor="#ffffe6">21st Feb. 2018</td>
+      <td>
+	<ul>
+	<li>ConvNet applications
+	<li>ConvNet case studies
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/db7gtf95tgu4icp/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td >  
+	      --
+	</td>
+      <td > --  </td>
    </tr>
     <tr>
       <td bgcolor="#ffffe6">22nd Feb. 2018</td>
