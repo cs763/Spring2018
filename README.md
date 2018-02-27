@@ -312,7 +312,7 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>  
-  <td bgcolor="#ffffe6">21st Feb. 2018</td>
+  <td bgcolor="#ffffe6">22nd Feb. 2018</td>
       <td>
 	<ul>
 	<li>ConvNet applications
@@ -327,7 +327,7 @@ learning</a> </td>
       <td > --  </td>
    </tr>
     <tr>
-      <td bgcolor="#ffffe6">22nd Feb. 2018</td>
+      <td bgcolor="#ffffe6">23rd Feb. 2018</td>
       <td>
 	<ul>
 	<li>RNNs, LSTMS
