@@ -72,6 +72,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
     <li><time datetime="2018-01-12">[12-Jan-18]</time> <a href="https://www.dropbox.com/s/mltmtj7bpc401vm/HW1.pdf?dl=0">Assignment 1</a> has been released. The due date for submission is Friday, January 26, 2018.
     <li><time datetime="2018-01-27">[27-Jan-18]</time> <a href="https://www.dropbox.com/s/u0l7gs0dy2rq11l/HW2.pdf?dl=0">Assignment 2 </a> has been released. The due date for submission is Sunday, February 4, 2018.
     <li><time datetime="2018-02-09">[09-Feb-18]</time> <a href="https://www.dropbox.com/s/b92xpq1zvec5956/HW3.pdf?dl=0">Assignment 3 </a> has been released. The due date for submission is Wednesday, February 21, 2018. <strong>Corresponding kaggle competition <a href="https://www.kaggle.com/c/assign3">link</a></strong>
+    <li><time datetime="2018-03-06">[06-Mar-18]</time> <a href="https://www.dropbox.com/s/452ubndyxr9x07l/HW4.pdf?dl=0">Assignment 4 </a> has been released. The due date for submission is Monday, March 19, 2018. <strong>Corresponding kaggle competition <a href="https://www.kaggle.com/t/3b06e8618ccd434293ccbabdfe9598d9">link</a></strong>
 </ul>
 
 <h2>Lecture Schedule: </h2>
