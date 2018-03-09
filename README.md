@@ -357,6 +357,25 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>
+    </tr>  
+      <tr>
+      <td bgcolor="#ffffe6">9th March 2018</td>
+      <td>
+	<ul>
+        <li>Other vision tasks: semantic segmentation, object localization, object detection, instance segmentation
+	<li>R-CNN, Mask R-CNN, 
+	<li>Autoencoders
+	<li>Generative modeling: VAEs, GANs
+	<li>Case studies: pix2pix, CycleGAN, UNIT
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/iv4a8k3ipdqzhrr/L2.pdf?dl=0">Slides</a><br/>
+	<a href="https://www.dropbox.com/s/y73abfsswmijahh/L2.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > --
+	</td>
+      <td > --  </td>
+  </tr>
   </tbody>
 </table>
 
