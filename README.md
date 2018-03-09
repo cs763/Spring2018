@@ -372,7 +372,7 @@ learning</a> </td>
 	<a href="https://www.dropbox.com/s/iv4a8k3ipdqzhrr/L2.pdf?dl=0">Slides</a><br/>
 	<a href="https://www.dropbox.com/s/y73abfsswmijahh/L2.pdf?dl=0">Slides</a><br/>
       </td>
-      <td > --
+      <td > <a href="https://github.com/cs763/Spring2018/blob/master/notebooks/MNIST_GAN.ipynb">MNIST Vanilla GAN</a>
 	</td>
       <td > --  </td>
   </tr>
