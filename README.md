@@ -341,6 +341,22 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>  
+      <tr>
+      <td bgcolor="#ffffe6">8th March 2018</td>
+      <td>
+	<ul>
+        <li>Visualizing and understanding ConvNets
+	<li>Images that maximize ConvNet class scores, reconstructing images from ConvNet <i>codes</i>
+	<li>Deep Dream, Neural Art, Adversarial Examples
+	<li>Dimentionality reduction: siamese and triplet networks
+      </ul></td>
+      <td>
+	<a href="https://www.dropbox.com/s/aigluwg8dqeg9g4/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > --
+	</td>
+      <td > --  </td>
+  </tr>
   </tbody>
 </table>
 
