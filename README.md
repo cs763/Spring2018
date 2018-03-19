@@ -376,6 +376,33 @@ learning</a> </td>
 	</td>
       <td > --  </td>
   </tr>
+        <tr>
+      <td bgcolor="#ffffe6">15th March 2018</td>
+      <td>
+	<ul>
+        <li>Deep Reinforcement Learning (Prof. Shivaram Kalyanakrishnan)	
+      </ul></td>
+      <td>	
+	--
+      </td>
+      <td > -- </td>
+      <td > --  </td>
+  </tr>  
+      <tr>
+      <td bgcolor="#ffffe6">16th March 2018</td>
+      <td>
+	<strong>Structure from Motion</strong>
+	<ul>
+        <li>Motion as a cue to inference of 3D structure from images
+	<li>Motion factorization algorithm by Tomasi and Kanade for inference of (sparse) 3D structure of a fixed object being observed by a moving orthographic camera (or a rigidly moving object, being observed by a fixed orthographic camera)
+	<li>Aspects of the above algorithm: Rank theorem, metric constraints for inference of motion parameters and 3D structure
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/k5crreyat1f0jic/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+      <td > --  </td>
+  </tr> 
   </tbody>
 </table>
 
