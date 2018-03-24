@@ -404,6 +404,37 @@ learning</a> </td>
       <td > -- </td>
       <td > --  </td>
   </tr> 
+  <tr>
+      <td bgcolor="#ffffe6">22nd March 2018</td>
+      <td>
+	<strong>Kanade-Lucas Tracking (KLT)</strong>
+	<ul>
+        <li>Tracking feature-points from a template by estimating motion parameters.
+	<li>Finding good features to track.
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/142i7kf3ica5ntl/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+	<td > <a href="http://www.ncorr.com/download/publications/bakerunify.pdf">Lucas-Kanade 20 Years On: A Unifying Framework</a><br/>  </td>
+  </tr> 
+  <tr>
+      <td bgcolor="#ffffe6">23rd March 2018</td>
+      <td>
+	<strong>Geometric Stereo</strong>
+	<ul>
+        <li>Orientation parameters for the camera pair and relative orientation.
+	<li>Coplanarity constraint for corresponding points
+	<li>Derivation and key properties of the Fundamental matrix
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/gnt9b550rusrtu5/L1.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+	<td > -- </td>
+  </tr> 
+  
+  
   </tbody>
 </table>
 
