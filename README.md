@@ -407,7 +407,7 @@ learning</a> </td>
   <tr>
       <td bgcolor="#ffffe6">22nd March 2018</td>
       <td>
-	<strong>Kanade-Lucas Tracking (KLT)</strong>
+	<strong>Kanade-Lucas-Tomasi Feature Tracking (KLT)</strong>
 	<ul>
         <li>Tracking feature-points from a template by estimating motion parameters.
 	<li>Finding good features to track.
