@@ -384,7 +384,7 @@ learning</a> </td>
         <li>Deep Reinforcement Learning (Prof. Shivaram Kalyanakrishnan)	
       </ul></td>
       <td>	
-	--
+	      <a href="https://www.dropbox.com/s/u89iyircvsv7oti/deeprl-1.pdf?dl=0">Slides</a>
       </td>
       <td > -- </td>
       <td > --  </td>
