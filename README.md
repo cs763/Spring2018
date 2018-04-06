@@ -433,8 +433,21 @@ learning</a> </td>
       <td > -- </td>
 	<td > -- </td>
   </tr> 
-  
-  
+    <tr>
+      <td bgcolor="#ffffe6">5th April 2018</td>
+      <td>
+	<ul>
+        <li>Introduction to epipolar geometry
+	<li>Essential matrix
+	<li>Popular parameterizations for the relative orientation
+	<li>Generating the normalized stereo case from arbitrary views
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/06nvi2yzzu15v9i/L2_essential_matrix.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+      <td > -- </td>
+  </tr> 
   </tbody>
 </table>
 
