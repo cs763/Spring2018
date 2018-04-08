@@ -448,6 +448,21 @@ learning</a> </td>
       <td > -- </td>
       <td > -- </td>
   </tr> 
+      <tr>
+      <td bgcolor="#ffffe6">6th April 2018</td>
+      <td>
+	<ul>
+        <li>Direct Solutions for Computing  Fundamental and Essential  Matrix
+	<li>8-point algorithm
+	<li>Triangulation
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/st8z0j64llpyj2v/L3_fe_direct.pdf?dl=0">Slides(1)</a><br/>
+	<a href="https://www.dropbox.com/s/6g72frihwgvdhq6/L3_triangulation.pdf?dl=0">Slides(2)</a><br/>
+      </td>
+      <td > -- </td>
+      <td > -- </td>
+  </tr> 
   </tbody>
 </table>
 
