@@ -74,6 +74,7 @@ Go to  <a href="https://github.com/cs763/Spring2018/blob/master/projects/readme.
     <li><time datetime="2018-02-09">[09-Feb-18]</time> <a href="https://www.dropbox.com/s/b92xpq1zvec5956/HW3.pdf?dl=0">Assignment 3 </a> has been released. The due date for submission is Wednesday, February 21, 2018. <strong>Corresponding kaggle competition <a href="https://www.kaggle.com/c/assign3">link</a></strong>
     <li><time datetime="2018-03-06">[06-Mar-18]</time> <a href="https://www.dropbox.com/s/452ubndyxr9x07l/HW4.pdf?dl=0">Assignment 4 </a> has been released. The due date for submission is Monday, March 19, 2018. <strong>Corresponding kaggle competition <a href="https://www.kaggle.com/t/3b06e8618ccd434293ccbabdfe9598d9">link</a></strong>
 <li>[2-April-18] <a href ="https://www.dropbox.com/s/cocjql8bfmytxbh/Assignment_5.pdf?dl=0">Assignment 5</a> on Tracking has been <a href="https://www.dropbox.com/s/cocjql8bfmytxbh/Assignment_5.pdf?dl=0">released</a>. Due date: April 2, 2018. <strong>Download the necessary files from <a href="https://www.dropbox.com/s/z3yzd25vgw5cma0/HW5.tar.gz?dl=0">here</a></strong>
+<li>[19-April-18] Assignment 6 on Multiview Geometry has been <a href="https://www.dropbox.com/s/ox41nidn99qw56r/Assignment_6.pdf?dl=0">released</a>. Due date: April 19, 2018.
 </ul>
 
 <h2>Lecture Schedule: </h2>
