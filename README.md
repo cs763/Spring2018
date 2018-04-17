@@ -464,6 +464,19 @@ learning</a> </td>
       <td > -- </td>
       <td > -- </td>
   </tr> 
+  <tr>
+      <td bgcolor="#ffffe6">12th April 2018</td>
+      <td>
+	<ul>
+        <li>Absolute Orientation
+	<li>Multi-View Geometry and Bundle Adjustment
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/fmk5emaxgo1cdcs/L4.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+      <td > -- </td>
+  </tr> 
   </tbody>
 </table>
 
