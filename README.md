@@ -477,6 +477,31 @@ learning</a> </td>
       <td > -- </td>
       <td > -- </td>
   </tr> 
+  <tr>
+      <td bgcolor="#ffffe6">19th April 2018</td>
+      <td>
+	<ul>
+        <li> Shape from Shading: Introduction
+	<li> Reflectance Models
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/g1w5t87bksw8jw3/Shape_From_Shading_day_one.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+      <td > -- </td>
+  </tr>
+  <tr>
+      <td bgcolor="#ffffe6">20th April 2018</td>
+      <td>
+	<ul>
+        <li> Photometric Stereo
+      </ul></td>
+      <td>	
+	<a href="https://www.dropbox.com/s/h2ecl96upbovdd2/Shape_From_Shading_DayTwo.pdf?dl=0">Slides</a><br/>
+      </td>
+      <td > -- </td>
+      <td > -- </td>
+  </tr> 
   </tbody>
 </table>
 
