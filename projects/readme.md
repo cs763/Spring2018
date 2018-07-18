@@ -12,7 +12,7 @@ You can choose projects given in the list below or you can propose your project 
 
 <h2>Some Proposed Projects</h2>
 <ol>
-<li><a href=https://github.com/mehtanihar/mask-rcnn><b>MASK R-CNN for Object Instance Segmentation </b></a>
+<li><a href=https://github.com/mehtanihar/mask-rcnn><b>MASK R-CNN for Object Instance Segmentation </b></a><br>
   <i>Meet Pragnesh Shah, Mehta Nihar Nikhil, Parth Ashit Kothari   </i><br>
   
   Mask R-CNN efficiently detects objects in an image while simultaneously generating a high-quality segmentation mask for each instance. Instance segmentation involves detection of all objects in the image as well as precise segmentation of each instance.The related research paper was published by Facebook AI Research. Through this project, we aim to implement this model in pytorch and perform experiments on the PASCAL-VOC dataset. We also shall make an attempt to provide a modification to the model which helps in improving the accuracies on the vision tasks as described in the paper. Another incentive of this project is that no working code is yet available in pytorch/tensorflow, which are the popular frameworks today. This will largely benefit the deep learning community.
